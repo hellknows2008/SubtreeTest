@@ -7,7 +7,7 @@
  *
  */
 
-// TEMP: some dummy change
+// TEMP: some dummy change followed by some more things
 
 #include <iostream>
 #include "LibraryA.hpp"
